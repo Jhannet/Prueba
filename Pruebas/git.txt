@@ -1,0 +1,27 @@
+configuracion
+git config --global user.name "Jhannet"
+git config --global user.email jhannet.jancko.camacho@gmail.com
+git config --list
+
+https://git-scm.com/book/es/v1
+
+git status
+git init
+
+git clone https://github.com/danielstp/jaguares
+
+git add
+git commit -m ""
+
+git push origin master
+
+git pull
+
+git check
+git log
+
+git fetch
+git rebase origin/master
+
+si .git sigue
+git reset --hard HEAD
