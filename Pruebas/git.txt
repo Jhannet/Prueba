@@ -3,6 +3,8 @@ git config --global user.name "Jhannet"
 git config --global user.email jhannet.jancko.camacho@gmail.com
 git config --list
 git config --global http.proxy http://192.245.122.10:31--
+git config --global --unset http.proxy
+git config --global --unset https.proxy
 
 https://git-scm.com/book/es/v1
 
