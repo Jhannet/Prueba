@@ -32,4 +32,7 @@ git reset --hard HEAD
 git checkout style.css	para recuperar archivo borrado
 git rm foo.txt	eliminar archivo despues hacer commit
 
-git checkout master
+git checkout master	cambiar a esa rama
+
+
+git branch -d ramaPrueba	eliminar rama
