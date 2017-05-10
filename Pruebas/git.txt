@@ -33,3 +33,4 @@ git checkout style.css	para recuperar archivo borrado
 git rm foo.txt	eliminar archivo despues hacer commit
 
 git checkout master
+git checkout -b ramaPrueba
